@@ -1,0 +1,180 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:  #FFC7C8;
+}
+
+header {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/*PRINCIPA*/
+
+
+.logo {
+    width: 150px; /* Pode ser ajustado conforme necessário */
+}
+
+/* Estilo do menu de navegação */
+nav {
+    background-color: #fff; /* Altere se necessário */
+}
+
+.menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap; /* Para permitir quebra de linha em telas menores */
+    justify-content: center; /* Centraliza o menu */
+}
+
+.menu li {
+    margin: 10px;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #333; /* Cor do texto dos links */
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.menu a:hover {
+    background-color: #ff9999; /* Efeito de hover */
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    header {
+        flex-direction: column; /* Para telas menores, coloca o logo acima do título */
+        align-items: center; /* Centraliza o conteúdo */
+    }
+
+    .menu {
+        flex-direction: column; /* Muda o menu para coluna em telas pequenas */
+        align-items: center; /* Centraliza os itens do menu */
+    }
+}
+
+
+
+
+
+
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border-radius: 5px;
+}
+
+nav ul li a:hover {
+    background-color: #0056b3;
+}
+
+.login-container {
+    width: 300px;
+    margin: 100px auto;
+    padding: 20px;
+    background-color:  #FFC7C8;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.login-container h1 {
+    text-align: center;
+}
+
+.login-container form {
+    display: flex;
+    flex-direction: column;
+}
+
+.login-container label,
+.login-container input {
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+/* segunda */
+
+
+.form-container {
+    width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	background-color: #FFC7C8;
+}
+
+.form-container form {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-container label,
+.form-container input {
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px;
+    background-color: #b30077;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #b30077;
+}
+
+
+
+
+
+
+
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+table th, table td {
+    padding: 10px;
+    text-align: left;
+}
+
+table th {
+    background-color: #f2f2f2;
+}
+
+.vencido {
+    color: red;
+    font-weight: bold;
+}

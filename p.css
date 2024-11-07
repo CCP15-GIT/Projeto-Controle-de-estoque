@@ -1,0 +1,66 @@
+/* Define a cor de fundo */
+
+ body {
+    font-family: Arial, sans-serif;
+    background-color:  #FFC7C8;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilização do cabeçalho */
+header {
+    text-align: center; /* Centraliza o conteúdo do cabeçalho */
+    padding: 20px;
+}
+
+.logo {
+    width: 150px; /* Ajuste conforme necessário */
+}
+
+/* Estilo do título */
+h1 {
+     text-align: center;
+  
+}
+
+/* Estilização dos botões */
+.button-container {
+    display: flex;
+    flex-wrap: wrap; /* Permite que os botões quebrem em várias linhas */
+    justify-content: center; /* Centraliza os grupos de botões */
+    padding: 20px; /* Espaçamento em volta da área dos botões */
+}
+
+.button-group {
+    display: flex;
+    flex-direction: column; /* Alinha os botões em coluna */
+    margin: 10px; /* Espaçamento entre grupos de botões */
+}
+
+.button {
+    background-color: #FFC7C8; /* Cor dos botões */
+    color: #333; /* Cor do texto */
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    margin: 5px 0; /* Espaçamento entre os botões */
+}
+
+.button:hover {
+    background-color: #ff9999; /* Efeito de hover para os botões */
+}
+
+/* Estilização do rodapé */
+footer {
+    text-align: center; /* Centraliza o texto do rodapé */
+    margin-top: 20px; /* Margem acima do rodapé */
+}
+
+/* Estilo do texto no rodapé */
+footer p {
+    font-size: 18px; /* Tamanho da fonte do texto */
+    color: #333; /* Cor do texto */
+}

@@ -1,0 +1,95 @@
+/* Define a cor de fundo e estilo do body */
+
+
+ body {
+    font-family: Arial, sans-serif;
+    background-color:  #FFC7C8;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilização do cabeçalho */
+header {
+    text-align: center; /* Centraliza o cabeçalho */
+    padding: 20px;
+}
+
+/* Estilização da navegação */
+nav {
+    text-align: center; /* Centraliza o menu de navegação */
+    margin-bottom: 20px; /* Espaçamento embaixo do menu */
+}
+
+nav ul {
+    list-style: none; /* Remove marcadores da lista */
+    padding: 0; /* Remove espaçamento padrão */
+}
+
+nav li {
+    display: inline; /* Exibe os itens do menu em linha */
+    margin: 0 15px; /* Espaçamento entre os itens do menu */
+}
+
+/* Estilização do formulário */
+.form-container {
+    max-width: 600px; /* Largura máxima do formulário */
+    margin: 0 auto; /* Centraliza o formulário na página */
+    padding: 20px;
+    border: 1px solid #ccc; /* Borda do formulário */
+    border-radius: 5px; /* Arredondar bordas */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+/* Estilização dos campos do formulário */
+form {
+    display: flex; /* Usar flexbox para layout */
+    flex-direction: column; /* Direção da coluna */
+}
+
+label {
+    margin: 10px 0 5px; /* Margens entre os rótulos e os campos */
+}
+
+input[type="text"],
+input[type="number"],
+input[type="date"] {
+    padding: 10px; /* Espaçamento interno */
+    border: 1px solid #ccc; /* Borda do campo */
+    border-radius: 5px; /* Arredondar bordas */
+    font-size: 16px; /* Tamanho da fonte */
+}
+
+button {
+    margin-top: 10px; /* Margem acima do botão */
+    padding: 10px; /* Espaçamento interno */
+    background-color: #FFC7C8; /* Cor do botão */
+    color: #333; /* Cor do texto */
+    border: none; /* Remove borda padrão */
+    border-radius: 5px; /* Arredondar bordas */
+    cursor: pointer; /* Cursor de ponteiro ao passar o mouse */
+    font-size: 16px; /* Tamanho da fonte do botão */
+}
+
+button:hover {
+    background-color: #ff9999; /* Cor do botão ao passar o mouse */
+}
+
+/* Estilização da mensagem */
+.message {
+    color: green; /* Cor da mensagem */
+    text-align: center; /* Centraliza a mensagem */
+    margin-top: 10px; /* Margem acima da mensagem */
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .form-container {
+        width: 90%; /* Largura do formulário em telas menores */
+        padding: 10px; /* Menos espaçamento interno */
+    }
+
+    nav li {
+        display: block; /* Coloca os itens do menu em coluna em telas menores */
+        margin: 5px 0; /* Margem em cima e embaixo dos itens do menu */
+    }
+}

@@ -1,0 +1,54 @@
+ body {
+    font-family: Arial, sans-serif;
+    background-color:  #FFC7C8;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center; /* Centraliza o cabeçalho */
+    padding: 20px;
+}
+
+nav {
+    text-align: center; /* Centraliza o menu de navegação */
+    margin-bottom: 20px; /* Espaçamento embaixo do menu */
+}
+
+nav ul {
+    list-style: none; /* Remove marcadores da lista */
+    padding: 0; /* Remove espaçamento padrão */
+}
+
+nav li {
+    display: inline; /* Exibe os itens do menu em linha */
+    margin: 0 15px; /* Espaçamento entre os itens do menu */
+}
+
+table {
+    width: 100%; /* Largura total da tabela */
+    border-collapse: collapse; /* Remove espaçamento entre as bordas das células */
+    margin: 20px 0; /* Margem em cima e embaixo da tabela */
+}
+
+table th, table td {
+    padding: 10px; /* Espaçamento interno das células */
+    border: 1px solid #ccc; /* Borda das células */
+    text-align: left; /* Alinhamento à esquerda do texto */
+}
+
+table th {
+    background-color: #f2f2f2; /* Cor de fundo dos cabeçalhos */
+}
+
+.vencido {
+    color: red; /* Cor vermelha para produtos vencidos */
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    nav li {
+        display: block; /* Coloca os itens do menu em coluna em telas menores */
+        margin: 5px 0; /* Margem em cima e embaixo dos itens do menu */
+    }
+}

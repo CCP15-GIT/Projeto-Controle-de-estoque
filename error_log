@@ -1,0 +1,173 @@
+[29-Sep-2024 19:51:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/informa5/clienterd.informaticaweb.top/lista_estoque.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/informa5/clienterd.informaticaweb.top/lista_estoque.php on line 11
+[29-Sep-2024 19:59:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/informa5/clienterd.informaticaweb.top/estoque.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/informa5/clienterd.informaticaweb.top/estoque.php on line 19
+[29-Sep-2024 20:03:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/informa5/clienterd.informaticaweb.top/lista_estoque.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/informa5/clienterd.informaticaweb.top/lista_estoque.php on line 11
+[29-Sep-2024 20:07:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/informa5/clienterd.informaticaweb.top/lista_estoque.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/informa5/clienterd.informaticaweb.top/lista_estoque.php on line 11
+[29-Sep-2024 20:26:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'informa5_projeto.movimentacoes' doesn't exist in /home/informa5/clienterd.informaticaweb.top/relatorios.php:13
+Stack trace:
+#0 /home/informa5/clienterd.informaticaweb.top/relatorios.php(13): PDOStatement->execute()
+#1 /home/informa5/clienterd.informaticaweb.top/relatorios.php(24): listarMovimentacoes(Object(PDO))
+#2 {main}
+  thrown in /home/informa5/clienterd.informaticaweb.top/relatorios.php on line 13
+[29-Sep-2024 20:27:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'informa5_projeto.movimentacoes' doesn't exist in /home/informa5/clienterd.informaticaweb.top/relatorios.php:13
+Stack trace:
+#0 /home/informa5/clienterd.informaticaweb.top/relatorios.php(13): PDOStatement->execute()
+#1 /home/informa5/clienterd.informaticaweb.top/relatorios.php(24): listarMovimentacoes(Object(PDO))
+#2 {main}
+  thrown in /home/informa5/clienterd.informaticaweb.top/relatorios.php on line 13
+[29-Sep-2024 20:27:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'informa5_projeto.movimentacoes' doesn't exist in /home/informa5/clienterd.informaticaweb.top/relatorios.php:13
+Stack trace:
+#0 /home/informa5/clienterd.informaticaweb.top/relatorios.php(13): PDOStatement->execute()
+#1 /home/informa5/clienterd.informaticaweb.top/relatorios.php(24): listarMovimentacoes(Object(PDO))
+#2 {main}
+  thrown in /home/informa5/clienterd.informaticaweb.top/relatorios.php on line 13
+[29-Sep-2024 20:27:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'informa5_projeto.movimentacoes' doesn't exist in /home/informa5/clienterd.informaticaweb.top/relatorios.php:13
+Stack trace:
+#0 /home/informa5/clienterd.informaticaweb.top/relatorios.php(13): PDOStatement->execute()
+#1 /home/informa5/clienterd.informaticaweb.top/relatorios.php(24): listarMovimentacoes(Object(PDO))
+#2 {main}
+  thrown in /home/informa5/clienterd.informaticaweb.top/relatorios.php on line 13
+[29-Sep-2024 20:27:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'informa5_projeto.movimentacoes' doesn't exist in /home/informa5/clienterd.informaticaweb.top/relatorios.php:13
+Stack trace:
+#0 /home/informa5/clienterd.informaticaweb.top/relatorios.php(13): PDOStatement->execute()
+#1 /home/informa5/clienterd.informaticaweb.top/relatorios.php(24): listarMovimentacoes(Object(PDO))
+#2 {main}
+  thrown in /home/informa5/clienterd.informaticaweb.top/relatorios.php on line 13
+[29-Sep-2024 20:28:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'informa5_projeto.movimentacoes' doesn't exist in /home/informa5/clienterd.informaticaweb.top/relatorios.php:13
+Stack trace:
+#0 /home/informa5/clienterd.informaticaweb.top/relatorios.php(13): PDOStatement->execute()
+#1 /home/informa5/clienterd.informaticaweb.top/relatorios.php(24): listarMovimentacoes(Object(PDO))
+#2 {main}
+  thrown in /home/informa5/clienterd.informaticaweb.top/relatorios.php on line 13
+[29-Sep-2024 20:28:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'informa5_projeto.movimentacoes' doesn't exist in /home/informa5/clienterd.informaticaweb.top/relatorios.php:13
+Stack trace:
+#0 /home/informa5/clienterd.informaticaweb.top/relatorios.php(13): PDOStatement->execute()
+#1 /home/informa5/clienterd.informaticaweb.top/relatorios.php(24): listarMovimentacoes(Object(PDO))
+#2 {main}
+  thrown in /home/informa5/clienterd.informaticaweb.top/relatorios.php on line 13
+[29-Sep-2024 20:28:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'informa5_projeto.movimentacoes' doesn't exist in /home/informa5/clienterd.informaticaweb.top/relatorios.php:13
+Stack trace:
+#0 /home/informa5/clienterd.informaticaweb.top/relatorios.php(13): PDOStatement->execute()
+#1 /home/informa5/clienterd.informaticaweb.top/relatorios.php(24): listarMovimentacoes(Object(PDO))
+#2 {main}
+  thrown in /home/informa5/clienterd.informaticaweb.top/relatorios.php on line 13
+[29-Sep-2024 20:30:32 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/informa5/clienterd.informaticaweb.top/relatorios.php on line 16
+[29-Sep-2024 20:31:42 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/informa5/clienterd.informaticaweb.top/relatorios.php on line 16
+[29-Sep-2024 20:31:49 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/informa5/clienterd.informaticaweb.top/relatorios.php on line 16
+[29-Sep-2024 20:32:06 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/informa5/clienterd.informaticaweb.top/relatorios.php on line 16
+[29-Sep-2024 20:32:26 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/informa5/clienterd.informaticaweb.top/relatorios.php on line 16
+[29-Sep-2024 20:36:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'informa5_projeto.movimentacoes' doesn't exist in /home/informa5/clienterd.informaticaweb.top/relatorios.php:13
+Stack trace:
+#0 /home/informa5/clienterd.informaticaweb.top/relatorios.php(13): PDOStatement->execute()
+#1 /home/informa5/clienterd.informaticaweb.top/relatorios.php(24): listarMovimentacoes(Object(PDO))
+#2 {main}
+  thrown in /home/informa5/clienterd.informaticaweb.top/relatorios.php on line 13
+[29-Sep-2024 21:27:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/index.php on line 4
+[29-Sep-2024 21:27:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/index.php on line 4
+[29-Sep-2024 21:27:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/index.php on line 4
+[29-Sep-2024 21:27:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/index.php on line 4
+[29-Sep-2024 21:28:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/index.php on line 4
+[29-Sep-2024 21:38:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin' for key 'usuario' in /home/informa5/clienterd.informaticaweb.top/configuracoes.php:13
+Stack trace:
+#0 /home/informa5/clienterd.informaticaweb.top/configuracoes.php(13): PDOStatement->execute(Array)
+#1 /home/informa5/clienterd.informaticaweb.top/configuracoes.php(43): cadastrarUsuario(Object(PDO), 'admin', 'admin')
+#2 {main}
+  thrown in /home/informa5/clienterd.informaticaweb.top/configuracoes.php on line 13
+[19-Oct-2024 22:00:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin' for key 'usuario' in /home/informa5/clienterd.informaticaweb.top/configuracoes.php:13
+Stack trace:
+#0 /home/informa5/clienterd.informaticaweb.top/configuracoes.php(13): PDOStatement->execute(Array)
+#1 /home/informa5/clienterd.informaticaweb.top/configuracoes.php(43): cadastrarUsuario(Object(PDO), 'admin', '1234')
+#2 {main}
+  thrown in /home/informa5/clienterd.informaticaweb.top/configuracoes.php on line 13
+[19-Oct-2024 22:01:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin' for key 'usuario' in /home/informa5/clienterd.informaticaweb.top/configuracoes.php:13
+Stack trace:
+#0 /home/informa5/clienterd.informaticaweb.top/configuracoes.php(13): PDOStatement->execute(Array)
+#1 /home/informa5/clienterd.informaticaweb.top/configuracoes.php(43): cadastrarUsuario(Object(PDO), 'admin', 'admin')
+#2 {main}
+  thrown in /home/informa5/clienterd.informaticaweb.top/configuracoes.php on line 13
+[19-Oct-2024 23:45:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/informa5/clienterd.informaticaweb.top/inventario.php on line 32
+[19-Oct-2024 23:45:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/informa5/clienterd.informaticaweb.top/inventario.php on line 32
+[19-Oct-2024 23:45:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/informa5/clienterd.informaticaweb.top/inventario.php on line 32
+[19-Oct-2024 23:46:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/informa5/clienterd.informaticaweb.top/inventario.php on line 32
+[19-Oct-2024 23:47:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/informa5/clienterd.informaticaweb.top/inventario.php on line 32
+[19-Oct-2024 23:47:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/informa5/clienterd.informaticaweb.top/inventario.php on line 32
+[19-Oct-2024 23:47:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/informa5/clienterd.informaticaweb.top/inventario.php on line 32
+[20-Oct-2024 00:21:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'RICARDO' for key 'usuario' in /home/informa5/clienterd.informaticaweb.top/configuracoes.php:13
+Stack trace:
+#0 /home/informa5/clienterd.informaticaweb.top/configuracoes.php(13): PDOStatement->execute(Array)
+#1 /home/informa5/clienterd.informaticaweb.top/configuracoes.php(43): cadastrarUsuario(Object(PDO), 'RICARDO', '12345')
+#2 {main}
+  thrown in /home/informa5/clienterd.informaticaweb.top/configuracoes.php on line 13
+[20-Oct-2024 00:22:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'RENATO' for key 'usuario' in /home/informa5/clienterd.informaticaweb.top/configuracoes.php:13
+Stack trace:
+#0 /home/informa5/clienterd.informaticaweb.top/configuracoes.php(13): PDOStatement->execute(Array)
+#1 /home/informa5/clienterd.informaticaweb.top/configuracoes.php(43): cadastrarUsuario(Object(PDO), 'RENATO', '1234')
+#2 {main}
+  thrown in /home/informa5/clienterd.informaticaweb.top/configuracoes.php on line 13
+[02-Nov-2024 20:37:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/principal.php on line 46
+[02-Nov-2024 20:37:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/informa5/clienterd.informaticaweb.top/principal.php:1) in /home/informa5/clienterd.informaticaweb.top/principal.php on line 48
+[02-Nov-2024 20:37:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/principal.php on line 46
+[02-Nov-2024 20:37:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/informa5/clienterd.informaticaweb.top/principal.php:1) in /home/informa5/clienterd.informaticaweb.top/principal.php on line 48
+[02-Nov-2024 20:37:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/principal.php on line 46
+[02-Nov-2024 20:37:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/informa5/clienterd.informaticaweb.top/principal.php:1) in /home/informa5/clienterd.informaticaweb.top/principal.php on line 48
+[02-Nov-2024 20:38:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/principal.php on line 46
+[02-Nov-2024 20:38:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/informa5/clienterd.informaticaweb.top/principal.php:1) in /home/informa5/clienterd.informaticaweb.top/principal.php on line 48
+[02-Nov-2024 20:39:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/principal.php on line 46
+[02-Nov-2024 20:39:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/informa5/clienterd.informaticaweb.top/principal.php:1) in /home/informa5/clienterd.informaticaweb.top/principal.php on line 48
+[02-Nov-2024 20:42:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/principal.php on line 47
+[02-Nov-2024 20:42:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/informa5/clienterd.informaticaweb.top/principal.php:1) in /home/informa5/clienterd.informaticaweb.top/principal.php on line 49
+[02-Nov-2024 20:45:38 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/principal.php on line 47
+[02-Nov-2024 20:45:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/informa5/clienterd.informaticaweb.top/principal.php:1) in /home/informa5/clienterd.informaticaweb.top/principal.php on line 49
+[02-Nov-2024 20:46:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/principal.php on line 48
+[02-Nov-2024 20:46:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/informa5/clienterd.informaticaweb.top/principal.php:1) in /home/informa5/clienterd.informaticaweb.top/principal.php on line 50
+[02-Nov-2024 20:46:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/principal.php on line 50
+[02-Nov-2024 20:46:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/informa5/clienterd.informaticaweb.top/principal.php:1) in /home/informa5/clienterd.informaticaweb.top/principal.php on line 52
+[02-Nov-2024 20:46:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/principal.php on line 50
+[02-Nov-2024 20:46:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/informa5/clienterd.informaticaweb.top/principal.php:1) in /home/informa5/clienterd.informaticaweb.top/principal.php on line 52
+[02-Nov-2024 20:47:28 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/principal.php on line 50
+[02-Nov-2024 20:47:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/informa5/clienterd.informaticaweb.top/principal.php:1) in /home/informa5/clienterd.informaticaweb.top/principal.php on line 52
+[02-Nov-2024 20:48:18 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/principal.php on line 50
+[02-Nov-2024 20:48:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/informa5/clienterd.informaticaweb.top/principal.php:1) in /home/informa5/clienterd.informaticaweb.top/principal.php on line 52
+[02-Nov-2024 20:49:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/principal.php on line 50
+[02-Nov-2024 20:49:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/informa5/clienterd.informaticaweb.top/principal.php:1) in /home/informa5/clienterd.informaticaweb.top/principal.php on line 52
+[02-Nov-2024 20:49:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/principal.php on line 50
+[02-Nov-2024 20:49:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/informa5/clienterd.informaticaweb.top/principal.php:1) in /home/informa5/clienterd.informaticaweb.top/principal.php on line 52
+[02-Nov-2024 20:49:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/principal.php on line 50
+[02-Nov-2024 20:49:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/informa5/clienterd.informaticaweb.top/principal.php:1) in /home/informa5/clienterd.informaticaweb.top/principal.php on line 52
+[02-Nov-2024 20:49:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/principal.php on line 50
+[02-Nov-2024 20:49:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/informa5/clienterd.informaticaweb.top/principal.php:1) in /home/informa5/clienterd.informaticaweb.top/principal.php on line 52
+[02-Nov-2024 20:50:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/principal.php on line 50
+[02-Nov-2024 20:50:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/informa5/clienterd.informaticaweb.top/principal.php:1) in /home/informa5/clienterd.informaticaweb.top/principal.php on line 52
+[02-Nov-2024 20:51:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/principal.php on line 50
+[02-Nov-2024 20:51:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/informa5/clienterd.informaticaweb.top/principal.php:1) in /home/informa5/clienterd.informaticaweb.top/principal.php on line 52
+[02-Nov-2024 20:51:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/principal.php on line 50
+[02-Nov-2024 20:51:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/informa5/clienterd.informaticaweb.top/principal.php:1) in /home/informa5/clienterd.informaticaweb.top/principal.php on line 52
+[02-Nov-2024 20:51:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/principal.php on line 50
+[02-Nov-2024 20:51:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/informa5/clienterd.informaticaweb.top/principal.php:1) in /home/informa5/clienterd.informaticaweb.top/principal.php on line 52
+[02-Nov-2024 20:52:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/principal.php on line 53
+[02-Nov-2024 20:52:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/informa5/clienterd.informaticaweb.top/principal.php:1) in /home/informa5/clienterd.informaticaweb.top/principal.php on line 55
+[02-Nov-2024 20:53:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/principal.php on line 51
+[02-Nov-2024 20:53:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/informa5/clienterd.informaticaweb.top/principal.php:1) in /home/informa5/clienterd.informaticaweb.top/principal.php on line 53
+[02-Nov-2024 20:56:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/principal.php on line 51
+[02-Nov-2024 20:56:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/informa5/clienterd.informaticaweb.top/principal.php:1) in /home/informa5/clienterd.informaticaweb.top/principal.php on line 53
+[02-Nov-2024 20:56:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/principal.php on line 51
+[02-Nov-2024 20:56:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/informa5/clienterd.informaticaweb.top/principal.php:1) in /home/informa5/clienterd.informaticaweb.top/principal.php on line 53
+[02-Nov-2024 20:56:28 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/principal.php on line 51
+[02-Nov-2024 20:56:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/informa5/clienterd.informaticaweb.top/principal.php:1) in /home/informa5/clienterd.informaticaweb.top/principal.php on line 53
+[02-Nov-2024 21:22:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/principal.php on line 51
+[02-Nov-2024 21:22:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/informa5/clienterd.informaticaweb.top/principal.php:1) in /home/informa5/clienterd.informaticaweb.top/principal.php on line 53
+[02-Nov-2024 21:29:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/principal.php on line 51
+[02-Nov-2024 21:29:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/informa5/clienterd.informaticaweb.top/principal.php:1) in /home/informa5/clienterd.informaticaweb.top/principal.php on line 53
+[02-Nov-2024 21:32:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/informa5/clienterd.informaticaweb.top/principal.php on line 51
+[02-Nov-2024 21:32:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/informa5/clienterd.informaticaweb.top/principal.php:1) in /home/informa5/clienterd.informaticaweb.top/principal.php on line 53
